@@ -27,6 +27,10 @@ This workflow automatically extracts LinkedIn post content, captions, and hashta
 
 🎯 Provides clean, structured, and organized post data
 
+📈 Helps with content strategy, competitor research, and hashtag analysis
+
+🔍 Ensures consistent and accurate data collection
+
 📄 License
 
 Licensed for educational and commercial use.
@@ -36,6 +40,3 @@ Licensed for educational and commercial use.
 Abdullah Aqeel
 
 AI Automation Expert | Software Quality Assurance Engineer (SQAE)
-📈 Helps with content strategy, competitor research, and hashtag analysis
-
-🔍 Ensures consistent and accurate data collection
